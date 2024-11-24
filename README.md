@@ -14,3 +14,7 @@ For more information on using the extension, please refer to the code in the res
 
 For details on the base Vulkan ImGui example, check the official repository:  
 [ImGui GitHub Repository](https://github.com/ocornut/imgui)
+
+---
+
+![1729750266801](https://github.com/user-attachments/assets/025e686f-9341-40a4-bdd8-088d5382f415)
